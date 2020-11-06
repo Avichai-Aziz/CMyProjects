@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//fibonacci func
+
 int fibo(int n) {
 	int prev = 1, curr = 1, i = 1;
 	while(i<n) {
